@@ -117,7 +117,7 @@
         android:background="#000"
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/firma"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="29dp"
         android:layout_below="@+id/text_ciudad_principal"
 
         />
